@@ -1,0 +1,852 @@
+{
+    "ipos": [
+        {
+            "symbol": "ATHER",
+            "name": "Ather Energy",
+            "issueSize": 2980.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-05-06"
+        },
+        {
+            "symbol": "QPOWER",
+            "name": "Quality Power Electrical Equipments",
+            "issueSize": 858.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-02-24"
+        },
+        {
+            "symbol": "HEXT",
+            "name": "Hexaware Technologies",
+            "issueSize": 8750.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-02-19"
+        },
+        {
+            "symbol": "AJAXENGG",
+            "name": "Ajax Engineering",
+            "issueSize": 1269.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-02-17"
+        },
+        {
+            "symbol": "AGARWALEYE",
+            "name": "Dr. Agarwal's Health Care",
+            "issueSize": 3027.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2025-02-04"
+        },
+        {
+            "symbol": "DENTA",
+            "name": "Denta Water and Infra Solutions",
+            "issueSize": 220.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-01-29"
+        },
+        {
+            "symbol": "STALLION",
+            "name": "Stallion India Fluorochemicals",
+            "issueSize": 199.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2025-01-23"
+        },
+        {
+            "symbol": "LAXMIDENTL",
+            "name": "Laxmi Dental",
+            "issueSize": 698.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-01-20"
+        },
+        {
+            "symbol": "QUADFUTURE",
+            "name": "Quadrant Future Tek",
+            "issueSize": 290.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-01-14"
+        },
+        {
+            "symbol": "SGLTL",
+            "name": "Standard Glass Lining Technology",
+            "issueSize": 410.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-01-13"
+        },
+        {
+            "symbol": "INDOFARM",
+            "name": "Indo Farm Equipment",
+            "issueSize": 260.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2025-01-07"
+        },
+        {
+            "symbol": "UNIMECH",
+            "name": "Unimech Aerospace & Manufacturing",
+            "issueSize": 500.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-31"
+        },
+        {
+            "symbol": "SENORES",
+            "name": "Senores Pharmaceuticals",
+            "issueSize": 582.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-30"
+        },
+        {
+            "symbol": "CARRARO",
+            "name": "Carraro India",
+            "issueSize": 1250.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-30"
+        },
+        {
+            "symbol": "VENTIVE",
+            "name": "Ventive Hospitality",
+            "issueSize": 1600.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-30"
+        },
+        {
+            "symbol": "MAMATA",
+            "name": "Mamata Machinery",
+            "issueSize": 179.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-27"
+        },
+        {
+            "symbol": "TRANSRAILL",
+            "name": "Transrail Lighting",
+            "issueSize": 838.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-27"
+        },
+        {
+            "symbol": "CEWATER",
+            "name": "Concord Enviro Systems",
+            "issueSize": 500.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-27"
+        },
+        {
+            "symbol": "DAMCAPITAL",
+            "name": "DAM Capital Advisors",
+            "issueSize": 840.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-27"
+        },
+        {
+            "symbol": "SANATHAN",
+            "name": "Sanathan Textiles",
+            "issueSize": 550.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-27"
+        },
+        {
+            "symbol": "IGIIL",
+            "name": "International Gemmological Institute",
+            "issueSize": 4225.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-20"
+        },
+        {
+            "symbol": "IKS",
+            "name": "Inventurus Knowledge Solutions",
+            "issueSize": 2497.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-19"
+        },
+        {
+            "symbol": "MOBIKWIK",
+            "name": "One Mobikwik Systems ",
+            "issueSize": 572.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-18"
+        },
+        {
+            "symbol": "VMM",
+            "name": "Vishal Mega Mart",
+            "issueSize": 8000.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-18"
+        },
+        {
+            "symbol": "SAILIFE",
+            "name": "Sai Life Sciences",
+            "issueSize": 3042.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-18"
+        },
+        {
+            "symbol": "SURAKSHA",
+            "name": "Suraksha Diagnostic",
+            "issueSize": 0.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-12-06"
+        },
+        {
+            "symbol": "EIEL",
+            "name": "Enviro Infra Engineers",
+            "issueSize": 650.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-11-29"
+        },
+        {
+            "symbol": "NTPCGREEN",
+            "name": "NTPC Green Energy",
+            "issueSize": 10000.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-11-27"
+        },
+        {
+            "symbol": "BLACKBUCK",
+            "name": "Zinka Logistics Solutions",
+            "issueSize": 1114.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-11-22"
+        },
+        {
+            "symbol": "NIVABUPA",
+            "name": "NIVA BUPA HEALTH INSURANCE COMPANY LIMITED",
+            "issueSize": 2200.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-11-14"
+        },
+        {
+            "symbol": "SWIGGY",
+            "name": "Swiggy Limited",
+            "issueSize": 11326.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-11-13"
+        },
+        {
+            "symbol": "ACMESOLAR",
+            "name": "ACME SOLAR HOLDINGS",
+            "issueSize": 2900.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-11-13"
+        },
+        {
+            "symbol": "SAGILITY",
+            "name": "SAGILITY INDIA LIMITED",
+            "issueSize": 2106.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-11-12"
+        },
+        {
+            "symbol": "AFCONS",
+            "name": "Afcons Infrastructure",
+            "issueSize": 5430.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-11-09"
+        },
+        {
+            "symbol": "GODAVARIB",
+            "name": "Godavari Biorefineries",
+            "issueSize": 554.75,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-10-30"
+        },
+        {
+            "symbol": "WAAREEENER",
+            "name": "Waaree Energies",
+            "issueSize": 4321.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-10-28"
+        },
+        {
+            "symbol": "DBEIL",
+            "name": "Deepak Builders & Engineers India",
+            "issueSize": 260.04,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-10-28"
+        },
+        {
+            "symbol": "HYUNDAI",
+            "name": "Hyundai Motor India",
+            "issueSize": 27856.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-10-22"
+        },
+        {
+            "symbol": "GARUDA",
+            "name": "Garuda Construction and Engineering Limited",
+            "issueSize": 264.1,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-10-15"
+        },
+        {
+            "symbol": "DIFFNKG",
+            "name": "Diffusion Engineers Limited",
+            "issueSize": 158.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-10-04"
+        },
+        {
+            "symbol": "KRN",
+            "name": "KRN Heat Exchanger and Refrigeration Limited",
+            "issueSize": 341.95,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-10-03"
+        },
+        {
+            "symbol": "MANBA",
+            "name": "Manba Finance Limited",
+            "issueSize": 150.84,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-30"
+        },
+        {
+            "symbol": "WCIL",
+            "name": "Western Carriers (India) Limited",
+            "issueSize": 492.88,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-24"
+        },
+        {
+            "symbol": "ARKADE",
+            "name": "Arkade Developers Limited",
+            "issueSize": 410.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-24"
+        },
+        {
+            "symbol": "NORTHARC",
+            "name": "Northern Arc Capital Limited",
+            "issueSize": 777.0,
+            "nseEnabled": true,
+            "bseEnabled": false,
+            "listingDate": "2024-09-24"
+        },
+        {
+            "symbol": "PNGJL",
+            "name": "P N Gadgil Jewellers Limited",
+            "issueSize": 1100.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-17"
+        },
+        {
+            "symbol": "BAJAJHFL",
+            "name": "Bajaj Housing Finance Limited",
+            "issueSize": 6560.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-16"
+        },
+        {
+            "symbol": "KROSS",
+            "name": "Kross Limited",
+            "issueSize": 500.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-16"
+        },
+        {
+            "symbol": "TOLINS",
+            "name": "Tolins Tyres Limited",
+            "issueSize": 230.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-16"
+        },
+        {
+            "symbol": "STBAL",
+            "name": "Shree Tirupati Balajee Agro Trading Company Limited",
+            "issueSize": 169.65,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-12"
+        },
+        {
+            "symbol": "GALAPREC",
+            "name": "Gala Precision Engineering Limited",
+            "issueSize": 167.93,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-09"
+        },
+        {
+            "symbol": "BZRSTYL",
+            "name": "Baazar Style Retail Limited",
+            "issueSize": 834.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-06"
+        },
+        {
+            "symbol": "ECOSMOBLTY",
+            "name": "Ecos (India) Mobility and Hospitality Limited",
+            "issueSize": 601.2,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-09-04"
+        },
+        {
+            "symbol": "PREMIERENE",
+            "name": "Premier Energies Limited",
+            "issueSize": 2830.4,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-09-03"
+        },
+        {
+            "symbol": "ORIENTTECH",
+            "name": "Orient Technologies Limited",
+            "issueSize": 214.76,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-08-28"
+        },
+        {
+            "symbol": "INTERARCH",
+            "name": "Interarch Building Products Limited",
+            "issueSize": 600.29,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-08-26"
+        },
+        {
+            "symbol": "SSDL",
+            "name": "Saraswati Saree Depot Limited",
+            "issueSize": 160.01,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-08-20"
+        },
+        {
+            "symbol": "FIRSTCRY",
+            "name": "Brainbees Solutions Limited",
+            "issueSize": 4193.72,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-08-13"
+        },
+        {
+            "symbol": "UNIECOM",
+            "name": "Unicommerce eSolutions Limited",
+            "issueSize": 276.57,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-08-13"
+        },
+        {
+            "symbol": "OLAELEC",
+            "name": "Ola Electric Mobility Limited",
+            "issueSize": 6145.56,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-08-09"
+        },
+        {
+            "symbol": "CEIGALL",
+            "name": "Ceigall India Limited",
+            "issueSize": 1252.66,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-08-08"
+        },
+        {
+            "symbol": "AKUMS",
+            "name": "Akums Drugs and Pharmaceuticals Limited",
+            "issueSize": 1856.74,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-08-06"
+        },
+        {
+            "symbol": "SANSTAR",
+            "name": "Sanstar Limited",
+            "issueSize": 510.15,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-07-26"
+        },
+        {
+            "symbol": "BANSALWIRE",
+            "name": "Bansal Wire Industries Limited",
+            "issueSize": 745.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-07-10"
+        },
+        {
+            "symbol": "EMCURE",
+            "name": "Emcure Pharmaceuticals",
+            "issueSize": 1952.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-07-10"
+        },
+        {
+            "symbol": "VRAJ",
+            "name": "Vraj Iron and Steel Limited",
+            "issueSize": 171.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-07-03"
+        },
+        {
+            "symbol": "ABDL",
+            "name": "Allied Blenders and Distillers Limited",
+            "issueSize": 1500.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-07-02"
+        },
+        {
+            "symbol": "STANLEY",
+            "name": "Stanley Lifestyles Limited",
+            "issueSize": 537.02,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-06-28"
+        },
+        {
+            "symbol": "AFIL",
+            "name": "Akme Fintrade India Ltd",
+            "issueSize": 132.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-06-26"
+        },
+        {
+            "symbol": "DEEDEV",
+            "name": "DEE Development Engineers Limited",
+            "issueSize": 418.01,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-06-26"
+        },
+        {
+            "symbol": "IXIGO",
+            "name": "Le Travenues Technology Limited",
+            "issueSize": 740.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-06-18"
+        },
+        {
+            "symbol": "KRONOX",
+            "name": "Kronox Lab Sciences Limited",
+            "issueSize": 130.15,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-06-10"
+        },
+        {
+            "symbol": "AWFIS",
+            "name": "Awfis Space Solutions Limited",
+            "issueSize": 598.9299999,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-05-30"
+        },
+        {
+            "symbol": "GODIGIT",
+            "name": "Go Digit General Insurance Limited",
+            "issueSize": 2614.65,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-05-23"
+        },
+        {
+            "symbol": "AADHARHFC",
+            "name": "Aadhar Housing Finance Limited",
+            "issueSize": 3000.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-05-15"
+        },
+        {
+            "symbol": "TBOTEK",
+            "name": "TBO Tek Limited",
+            "issueSize": 1550.81,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-05-15"
+        },
+        {
+            "symbol": "INDGN",
+            "name": "Indegene Limited",
+            "issueSize": 1841.76,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-05-13"
+        },
+        {
+            "symbol": "JNKINDIA",
+            "name": "JNK India Limited",
+            "issueSize": 649.47,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-04-30"
+        },
+        {
+            "symbol": "BHARTIHEXA",
+            "name": "Bharti Hexacom Limited",
+            "issueSize": 4275.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-04-12"
+        },
+        {
+            "symbol": "GCONNECT",
+            "name": "GConnect Logitech and Supply Chain Limited",
+            "issueSize": 5.6,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-04-03"
+        },
+        {
+            "symbol": "SRM",
+            "name": "SRM Contractors Limited",
+            "issueSize": 130.2,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-04-03"
+        },
+        {
+            "symbol": "KPGEL",
+            "name": "KP Green Engineering Limited",
+            "issueSize": 189.5,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-03-22"
+        },
+        {
+            "symbol": "KRYSTAL",
+            "name": "Krystal Integrated Services Limited",
+            "issueSize": 300.13,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-21"
+        },
+        {
+            "symbol": "PVSL",
+            "name": "Popular Vehicles & Services Limited",
+            "issueSize": 601.55,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-19"
+        },
+        {
+            "symbol": "KOURA",
+            "name": "Koura Fine Diamond Jewelry Limited",
+            "issueSize": 5.5,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-03-14"
+        },
+        {
+            "symbol": "GOPALSNACK",
+            "name": "Gopal Snacks Limited",
+            "issueSize": 650.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-14"
+        },
+        {
+            "symbol": "JGCHEM",
+            "name": "JG Chemicals Limited",
+            "issueSize": 251.19,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-13"
+        },
+        {
+            "symbol": "RKSWAMY",
+            "name": "R K SWAMY Limited",
+            "issueSize": 423.56,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-12"
+        },
+        {
+            "symbol": "MUKKA",
+            "name": "Mukka Proteins Limited",
+            "issueSize": 224.0,
+            "nseEnabled": true,
+            "bseEnabled": false,
+            "listingDate": "2024-03-07"
+        },
+        {
+            "symbol": "EXICOM",
+            "name": "Exicom Tele-Systems Limited",
+            "issueSize": 429.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-05"
+        },
+        {
+            "symbol": "PLATINUM",
+            "name": "Platinum Industries Limited",
+            "issueSize": 235.32,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-03-05"
+        },
+        {
+            "symbol": "GPTHEALTH",
+            "name": "GPT Healthcare Limited",
+            "issueSize": 525.14,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-02-29"
+        },
+        {
+            "symbol": "JUNIPER",
+            "name": "Juniper Hotels Limited",
+            "issueSize": 1800.0,
+            "nseEnabled": true,
+            "bseEnabled": true,
+            "listingDate": "2024-02-28"
+        },
+        {
+            "symbol": "VSTL",
+            "name": "Vibhor Steel Tubes Limited",
+            "issueSize": 72.17,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-20"
+        },
+        {
+            "symbol": "ENTERO",
+            "name": "Entero Healthcare Solutions Limited",
+            "issueSize": 1600.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-16"
+        },
+        {
+            "symbol": "CAPITALSFB",
+            "name": "Capital Small Finance Bank Limited",
+            "issueSize": 523.07,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-14"
+        },
+        {
+            "symbol": "JSFB",
+            "name": "Jana Small Finance Bank Limited",
+            "issueSize": 570.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-14"
+        },
+        {
+            "symbol": "RPTECH",
+            "name": "Rashi Peripherals Limited",
+            "issueSize": 600.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-14"
+        },
+        {
+            "symbol": "PARKHOTELS",
+            "name": "Apeejay Surrendra Park Hotels Limited",
+            "issueSize": 920.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-12"
+        },
+        {
+            "symbol": "BLSE",
+            "name": "BLS E-Services Limited",
+            "issueSize": 310.91,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-02-06"
+        },
+        {
+            "symbol": "NOVAAGRI",
+            "name": "Nova AgriTech Limited",
+            "issueSize": 143.81,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-31"
+        },
+        {
+            "symbol": "BRISK",
+            "name": "Brisk Technovision Limited",
+            "issueSize": 12.48,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-31"
+        },
+        {
+            "symbol": "EPACK",
+            "name": "EPACK Durable Limited",
+            "issueSize": 640.05,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-30"
+        },
+        {
+            "symbol": "MEDIASSIST",
+            "name": "Medi Assist Healthcare Services Limited",
+            "issueSize": 1171.58,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-23"
+        },
+        {
+            "symbol": "JYOTICNC",
+            "name": "Jyoti CNC Automation Limited",
+            "issueSize": 1000.0,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-16"
+        },
+        {
+            "symbol": "AIK",
+            "name": "AIK Pipes And Polymers Limited",
+            "issueSize": 15.02,
+            "nseEnabled": false,
+            "bseEnabled": true,
+            "listingDate": "2024-01-02"
+        }
+    ]
+}
