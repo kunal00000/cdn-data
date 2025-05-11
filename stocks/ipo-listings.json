@@ -161,7 +161,7 @@
             "listingDate": "2024-12-27"
         },
         {
-            "symbol": "IGIIL",
+            "symbol": "IGIL",
             "name": "International Gemmological Institute",
             "issueSize": 4225.0,
             "nseEnabled": false,
@@ -393,14 +393,6 @@
             "listingDate": "2024-09-16"
         },
         {
-            "symbol": "STBAL",
-            "name": "Shree Tirupati Balajee Agro Trading Company Limited",
-            "issueSize": 169.65,
-            "nseEnabled": true,
-            "bseEnabled": true,
-            "listingDate": "2024-09-12"
-        },
-        {
             "symbol": "GALAPREC",
             "name": "Gala Precision Engineering Limited",
             "issueSize": 167.93,
@@ -409,7 +401,7 @@
             "listingDate": "2024-09-09"
         },
         {
-            "symbol": "BZRSTYL",
+            "symbol": "STYLEBAAZA",
             "name": "Baazar Style Retail Limited",
             "issueSize": 834.0,
             "nseEnabled": true,
@@ -681,7 +673,7 @@
             "listingDate": "2024-03-14"
         },
         {
-            "symbol": "GOPALSNACK",
+            "symbol": "GOPAL",
             "name": "Gopal Snacks Limited",
             "issueSize": 650.0,
             "nseEnabled": true,
@@ -721,7 +713,7 @@
             "listingDate": "2024-03-05"
         },
         {
-            "symbol": "PLATINUM",
+            "symbol": "PLATIND",
             "name": "Platinum Industries Limited",
             "issueSize": 235.32,
             "nseEnabled": true,
@@ -839,14 +831,6 @@
             "nseEnabled": false,
             "bseEnabled": true,
             "listingDate": "2024-01-16"
-        },
-        {
-            "symbol": "AIK",
-            "name": "AIK Pipes And Polymers Limited",
-            "issueSize": 15.02,
-            "nseEnabled": false,
-            "bseEnabled": true,
-            "listingDate": "2024-01-02"
         }
     ]
 }
